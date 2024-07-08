@@ -1,6 +1,6 @@
 
 
-# E-Commerce Data Analysis w/SQL
+# Netflix Mid-2021 Data Analysis w/SQL
 
 ## Table of Contents
 - Problem Statement
